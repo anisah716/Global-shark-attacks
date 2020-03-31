@@ -24,6 +24,8 @@ git@github.com:anisah716/Global-shark-attacks.git
 * [Python](https://www.python.org)
 * [Jupyter Notebook](https://jupyter.org)
 * [matplotlib](https://matplotlib.org) - Visualizations 
+* [Seaborn](https://seaborn.pydata.org) - Visualizations
+* [Sklearn](https://scikit-learn.org/stable/) - Machine Learning 
 
 ## Authors
 
