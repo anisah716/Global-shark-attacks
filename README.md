@@ -31,5 +31,5 @@ git@github.com:anisah716/Global-shark-attacks.git
 
 ## Authors
 
-* **Anisah Ahmed**  - [Github](https://github.com/anisah716)
+  - [Gitlab](https://columbia.bootcampcontent.com/pihermogenes/final-project)
 
