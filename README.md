@@ -14,7 +14,7 @@ SSH:
 ```
 git@github.com:anisah716/Global-shark-attacks.git
 ```
-## Visualizations
+## Heat Map 
 
 
 ![Image of Graphs](https://github.com/anisah716/nyc-gentrification/blob/master/image1.png)
